@@ -6,10 +6,17 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
+# Beta Signup
+
+Please sign up for our "closed beta" here: https://forms.gle/ppw8UvGvTWoKxdrb8
+Note: signing up pretty much guarantees exceptance, signup exists mostly to explain that you may or may not be lighting your money on fire for a mostly finished product.
+Note2: you must be a member of our discord, and have a github account to participate.
+
+
 # Project Goals:
 - Fully Enclosed Design or Open Air
 - 2020 Frame Members
-- Build Volumes of ~180^3 mm
+- Build Volume of ~180^3 mm
 - Direct Drive Extruder
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed
@@ -23,7 +30,14 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
-# Renders
+# Images
+ ![Image of K3 Toolhead](Images/k3_toolhead.png?raw=true)
+ 
+ ![Image of K3 without Panels](Images/k3_open_air_1.pngG?raw=true)
+ 
+ ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
+  
+
 
   
 
