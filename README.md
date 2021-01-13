@@ -33,7 +33,7 @@ Note2: you must be a member of our discord, and have a github account to partici
 # Images
  ![Image of K3 Toolhead](Images/k3_toolhead.png?raw=true)
  
- ![Image of K3 without Panels](Images/k3_open_air_1.pngG?raw=true)
+ ![Image of K3 without Panels](Images/k3_open_air_1.png?raw=true)
  
  ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
   
