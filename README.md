@@ -31,12 +31,6 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
 # Images
- ![Image of K3 Toolhead](Images/k3_toolhead.png?raw=true)
- 
- ![Image of K3 without Panels](Images/k3_open_air_1.png?raw=true)
- 
- ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
- 
  ![Image of K3 RyanG](Images/ryang_1.jpg?raw=true)
   
  ![Image of K3 RyanG](Images/ryang_2.jpg?raw=true) 
@@ -45,6 +39,13 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 
  ![Image of K3 RyanG](Images/ryang_4.jpg?raw=true) 
 
- ![Image of K3 RyanG](Images/ryang_5s.jpg?raw=true) 
+ ![Image of K3 RyanG](Images/ryang_5.jpg?raw=true) 
+ 
+ ![Image of K3 Toolhead](Images/k3_toolhead.png?raw=true)
+ 
+ ![Image of K3 without Panels](Images/k3_open_air_1.png?raw=true)
+ 
+ ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
+
 
 
