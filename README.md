@@ -36,8 +36,15 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
  ![Image of K3 without Panels](Images/k3_open_air_1.png?raw=true)
  
  ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
+ 
+ ![Image of K3 RyanG](Images/ryang_1.jpg?raw=true)
   
+ ![Image of K3 RyanG](Images/ryang_2.jpg?raw=true) 
 
+ ![Image of K3 RyanG](Images/ryang_3.jpg?raw=true) 
 
-  
+ ![Image of K3 RyanG](Images/ryang_4.jpg?raw=true) 
+
+ ![Image of K3 RyanG](Images/ryang_5s.jpg?raw=true) 
+
 
