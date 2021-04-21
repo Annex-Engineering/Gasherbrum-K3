@@ -30,6 +30,8 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
+* Enclosed Printers are passively heated and only designed around a 65C max chamber temperature, K3 is not intended to be a High Temperature printer. It was designed to excell at common engineering materials such as PLA, PETG, ABS and some PC/Nylon Blends
+
 # Images
  ![Image of K3 RyanG](Images/ryang_1.jpg?raw=true)
   
