@@ -23,31 +23,20 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
-- Minimal Printed Parts (ABS Required)
-- 32 bit controller standard (Single S6/SKR with expander)
+- Minimal Printed Parts (ABS/ASA Required)
+- 32 bit controller standard (Single Fysetc Spider, or Fysetc S6 with expander)
 - 24V Power Standard
-- AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
+- AC Heated Bed, MIC6 Plate with Magnetic Build Surface
 
 * Enclosed Printers are passively heated and only designed around a 65C max chamber temperature, K3 is not intended to be a High Temperature printer. It was designed to excell at common engineering materials such as PLA, PETG, ABS and some PC/Nylon Blends
 
 # Images
- ![Image of K3 RyanG](Images/ryang_1.jpg?raw=true)
+ ![Image of K3](Images/photo1.jpg?raw=true)
   
- ![Image of K3 RyanG](Images/ryang_2.jpg?raw=true) 
+ ![Image of K3](Images/photo2.jpg?raw=true) 
 
- ![Image of K3 RyanG](Images/ryang_3.jpg?raw=true) 
+ ![Image of K3](Images/photo3.jpg?raw=true) 
 
- ![Image of K3 RyanG](Images/ryang_4.jpg?raw=true) 
-
- ![Image of K3 RyanG](Images/ryang_5.jpg?raw=true) 
- 
- ![Image of K3 RyanG](Images/ryang_9.jpg?raw=true) 
- 
- ![Image of K3 Toolhead](Images/k3_toolhead.png?raw=true)
- 
- ![Image of K3 without Panels](Images/k3_open_air_1.png?raw=true)
- 
- ![Image of K3 without Panels 2](Images/k3_open_air_2.png?raw=true)
-
+ ![Image of K3](Images/photo4.jpg?raw=true) 
 
 
