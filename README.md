@@ -20,7 +20,7 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - Moving Bed
 - MGN9 Rails (XYZ and Cross)
 - 9mm Belts on XY, T12x2 Screws to Lift Z
-- Heavy Duty Bearings
+- Maxwell Coupling on Bed
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS/ASA Required)
