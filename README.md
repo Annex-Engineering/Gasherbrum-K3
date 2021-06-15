@@ -20,11 +20,11 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 - Moving Bed
 - MGN9 Rails (XYZ and Cross)
 - 9mm Belts on XY, T12x2 Screws to Lift Z
-- Maxwell Coupling on Bed
+- Maxwell Coupling on Bed Frame
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS/ASA Required)
-- 32 bit controller standard (Single Fysetc Spider, or Fysetc S6 with expander)
+- 32 bit controller standard (Single Fysetc Spider, or Fysetc S6 with expander) - Klipper Highly Recommended
 - 24V Power Standard
 - AC Heated Bed, MIC6 Plate with Magnetic Build Surface
 
