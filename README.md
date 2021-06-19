@@ -31,12 +31,10 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 * Enclosed Printers are passively heated and only designed around a 65C max chamber temperature, K3 is not intended to be a High Temperature printer. It was designed to excell at common engineering materials such as PLA, PETG, ABS and some PC/Nylon Blends
 
 # Images
- ![Image of K3](Images/photo1.jpg?raw=true)
+ ![Image of K3](Images/front_view.png?raw=true)
   
- ![Image of K3](Images/photo2.jpg?raw=true) 
+ ![Image of K3](Images/inside_view.png?raw=true) 
 
- ![Image of K3](Images/photo3.jpg?raw=true) 
-
- ![Image of K3](Images/photo4.jpg?raw=true) 
+ ![Image of K3](Images/front_view.png?raw=true) 
 
 
