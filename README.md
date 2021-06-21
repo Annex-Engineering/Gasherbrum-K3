@@ -33,6 +33,8 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
   
  ![Image of K3](Images/renders/inside_view.png?raw=true) 
 
+ ![Image of K3](Images/renders/inside_view_ascender.png?raw=true)
+
  ![Image of K3](Images/renders/top_view.png?raw=true) 
 
 
