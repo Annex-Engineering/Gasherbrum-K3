@@ -81,7 +81,7 @@ Dragonfly HIC
 ### Extruders
 
 Sherpa Mini
-- umbilical_mount_x1
+- sherpa_umbilical_mount_x1
 - (sherpa mini extruder with k-series front housing)
 
 Ascender
