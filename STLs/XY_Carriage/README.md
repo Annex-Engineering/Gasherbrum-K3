@@ -5,7 +5,7 @@
 - range of motion:
     - X: -8 to 180
     - Y: 0 to 186
-- probe dock location: X-8 Y186
+- probe dock location: X-8 Y183
 - homing location: X180 Y0
 - bowden tube length (mm):
 
