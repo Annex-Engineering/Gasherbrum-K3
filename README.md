@@ -1,3 +1,7 @@
+# NOTICE
+
+In the current state of this beta there's a 50/50 shot you will experience Z banding depending on how well you setup your Z and how lucky you get with your T12s, this is something we're working on and if you don't want to risk it i would recommend waiting a bit. If you don't mind then just know a solution is in the works!
+
 # Gasherbrum (K3) Printer
 
 This is an "Open Beta"
