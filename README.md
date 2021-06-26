@@ -9,6 +9,9 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
 
+BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+
+
 # Project Goals:
 - Fully Enclosed Design or Open Air
 - 2020 Frame Members
