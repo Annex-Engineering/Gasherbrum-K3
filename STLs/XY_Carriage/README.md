@@ -4,9 +4,9 @@
 
 - range of motion:
     - X: -8 to 180
-    - Y: 0 to 186
-- probe dock location: X-8 Y183
-- homing location: X180 Y0
+    - Y: -2 to 184
+- probe dock location: X-8 Y185
+- homing location: X180 Y-2
 - bowden tube length (mm):
 
     |               | sherpa mini   | ascender  |
