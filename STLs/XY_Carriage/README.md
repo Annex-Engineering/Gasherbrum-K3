@@ -61,6 +61,7 @@ Slice Copperhead
 
 VolcoMosq
 - sherpa_mosquito_main_body_x1 or ascender_mosquito_main_body_x1
+- mosquito_side_mount_x1
 - volcomosq_brace_for_probe_mount_x1
 - volcomosq_fan_spacer_x2
 
