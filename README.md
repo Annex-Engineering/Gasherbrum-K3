@@ -1,7 +1,3 @@
-# NOTICE
-
-In the current state of this beta there's a 50/50 shot you will experience Z banding depending on how well you setup your Z and how lucky you get with your T12s, this is something we're working on and if you don't want to risk it i would recommend waiting a bit. If you don't mind then just know a solution is in the works!
-
 # Gasherbrum (K3) Printer
 
 This is an "Open Beta"
@@ -24,7 +20,7 @@ BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed
 - MGN9 Rails (XYZ and Cross)
-- 9mm Belts on XY, T12x2 Screws to Lift Z
+- 9mm Belts on XY, 9mm Belts (recommended) or T12x2 Screws to Lift Z
 - Maxwell Coupling on Bed Frame
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
