@@ -1,0 +1,1 @@
+If using a VolcoMosq or Dragonfly HIC hotend, print the z_rear_idler stl from the "volcomosq and dragonfly hic" folder instead of the one in this folder.
