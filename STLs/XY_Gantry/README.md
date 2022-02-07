@@ -11,8 +11,8 @@ Use this option if you are using the custom long shaft motors from LDO.
 
 ## Linear Rail Instructions
 
-**Running Robotdigg Rails**?
-If you are using robotdigg rails, you should to use the STLs in the `for_6.0mm_thick_rails` folder for the tensioner spacer and rail mounts, as these rails are 0.5mm thinner.
+**Running RobotDigg Rails**?
+If you are using RobotDigg or LDO rails, you should to use the STLs in the `for_6.0mm_thick_rails` folder for the tensioner spacer and rail mounts, as these rails are 0.5mm thinner.
 
 **Spacer Sizing Tips**
 - Before printing the tensioner spacer, try slicing the main toolhead plate (with whatever settings you will/did use to print it) and check the distance from the bottom to the surface that sits underneath the upside-down rail. The model is 6.5mm thick, but depending on your slicer and its settings, the part may be sliced slightly thicker or thinner.
