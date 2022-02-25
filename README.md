@@ -4,7 +4,7 @@ This is an "Open Beta"
 
 Project Gasherbrum (K3 for short) is a Small Format, Direct Drive, Fully Enclosed or Open Air FDM Printer.
 
-This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System
+This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System, and inspired by all other prior repraps.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
