@@ -10,25 +10,26 @@
 - Homing location: X180 Y-2
 - Bowden tube length (mm):
 
-    |               | Sherpa Mini   | Ascender  | LGX Lite  |
-    | ---           | ---           | ---       | ---       |
-    | Mosquito      | 26.5          | 26.0      | 21.5      |
-    | Copperhead    | 46.5          | 46.0      | 41.5      |
-    | VolcoMosq     | 26.5          | 26.0      | 21.5      |
-    | Dragon        | 27.5          | 27.0      | 22.5      |
-    | Dragonfly BMO | unknown*      | unknown*  | unknown*  |
-    | Dragonfly BMS | unknown*      | unknown*  | unknown*  |
-    | Dragonfly HIC | unknown*      | unknown*  | unknown*  |
-    | Rapido HF     | unknown*      | unknown*  | unknown*  |
+    |               | Sherpa (Mini or Micro)  | Ascender  | LGX Lite  |
+    | ---           | ---                     | ---       | ---       |
+    | Mosquito      | 26.5                    | 26.0      | 21.5      |
+    | Copperhead    | 46.5                    | 46.0      | 41.5      |
+    | VolcoMosq     | 26.5                    | 26.0      | 21.5      |
+    | Dragon        | 27.5                    | 27.0      | 22.5      |
+    | Dragonfly BMO | unknown*                | unknown*  | unknown*  |
+    | Dragonfly BMS | unknown*                | unknown*  | unknown*  |
+    | Dragonfly HIC | unknown*                | unknown*  | unknown*  |
+    | Rapido HF     | unknown*                | unknown*  | unknown*  |
     
     - *For each of the hotends with unknown bowden tube length, the bowden tube should extend above the main body by the amount shown below, depending on which extruder you're using. We do not currently know how far the tube extends into these hotends; if you use one of them, please measure the overall length of your tube after cutting it so we can add it to this guide.
-      - Sherpa Mini: 8mm
+      - Sherpa (Mini or Micro): 8mm
       - Ascender: 7.5mm
       - LGX Lite: 10.5mm
 
 - For the Mosquito and VolcoMosq versions, make sure the thickness of the hotend fan + the height of the screw head attaching it add up to less than 13.36mm.
 - If you use the Dragonfly BMO or Rapido, remove the groove mount adapter.
 - If you use the Copperhead, Dragonfly BMS, or Dragonfly HIC, remove the collet.
+- If you use the Rapido, make sure it is oriented so the wire is exiting in the same direction as in the edrawing. Other orientations also work if you either add the `dragonfly_bms_fan_screw_spacer` printed part around the bottom screws or use M2.5x14 screws to make sure the screw doesn't hit the heatsink.
 - Some versions of the toolhead space the fan mounts and probe downward since the hotend is longer. With these hotends, you may lose up to the following z height:
     - Copperhead: 4.5mm
     - VolcoMosq: 8.5mm
@@ -56,7 +57,8 @@ Please print all parts in the "common parts" section, the section for your chose
 
 Slice Mosquito
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mosquito_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
   - Ascender: `ascender_mosquito_main_body_x1`
   - LGX Lite:
     - `lgx_lite_mosquito_main_body_x1`
@@ -66,7 +68,8 @@ Slice Mosquito
 
 Slice Copperhead
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mosquito_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
   - Ascender: `ascender_mosquito_main_body_x1`
   - LGX Lite:
     - `lgx_lite_mosquito_main_body_x1`
@@ -76,7 +79,8 @@ Slice Copperhead
 
 VolcoMosq
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mosquito_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
   - Ascender: `ascender_mosquito_main_body_x1`
   - LGX Lite:
     - `lgx_lite_mosquito_main_body_x1`
@@ -87,7 +91,8 @@ VolcoMosq
 
 Dragon-Style Hotend
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_dragon_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_dragon_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragon_main_body_x1`
   - Ascender: `ascender_dragon_main_body_x1`
   - LGX Lite:
     - `lgx_lite_dragon_main_body_x1`
@@ -97,7 +102,8 @@ Dragon-Style Hotend
 
 Dragonfly BMO
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_dragonfly_bmo_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_dragonfly_bmo_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragonfly_bmo_main_body_x1`
   - Ascender: `ascender_dragonfly_bmo_main_body_x1`
   - LGX Lite:
     - `lgx_lite_dragonfly_bmo_main_body_x1`
@@ -107,7 +113,8 @@ Dragonfly BMO
 
 Dragonfly BMS
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mosquito_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
   - Ascender: `ascender_mosquito_main_body_x1`
   - LGX Lite:
     - `lgx_lite_mosquito_main_body_x1`
@@ -115,10 +122,12 @@ Dragonfly BMS
 - `mosquito_brace_for_probe_mount_x1`
 - `dragonfly_bms_fan_spacer_x2`
 - `dragonfly_bms_hotend_mount_x1`
+- `dragonfly_bms_fan_screw_spacer_x1`
 
 Dragonfly HIC
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mosquito_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
   - Ascender: `ascender_mosquito_main_body_x1`
   - LGX Lite:
     - `lgx_lite_mosquito_main_body_x1`
@@ -128,7 +137,8 @@ Dragonfly HIC
 
 Rapido HF
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_dragon_main_body_x1`
+  - Sherpa Mini: `sherpa_mini_dragon_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragon_main_body_x1`
   - Ascender: `ascender_dragon_main_body_x1`
   - LGX Lite:
     - `lgx_lite_dragon_main_body_x1`
@@ -142,6 +152,10 @@ Rapido HF
 Sherpa Mini
 - `sherpa_umbilical_mount_x1`
 - (sherpa mini extruder with k-series front housing)
+
+Sherpa Micro
+- `sherpa_umbilical_mount_x1`
+- (sherpa micro extruder with k-series front housing)
 
 Ascender
 - `ascender_umbilical_mount_x1`
