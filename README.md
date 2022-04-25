@@ -6,7 +6,9 @@ Project Gasherbrum (K3 for short) is a Small Format, Direct Drive, Fully Enclose
 
 This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System, and inspired by all other prior repraps.
 
-Our discord server can be found here: https://discord.gg/MzTR3zE
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
 
 
 BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
