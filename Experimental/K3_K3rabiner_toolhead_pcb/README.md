@@ -1,7 +1,7 @@
 # K3rabiner-Toolboard
 
 The K3rabiner is a toolboard for the K3 and an easy & quick connection between the backpack and toolhead. Thanks to wendemann for the original work.
-![picture](images/Front.JPG)
+![picture](Images/Front.JPG)
 
 ## Features
 
@@ -53,14 +53,14 @@ This pinout assumes you're looking directly at the cable.
 
 
 ## Gallery
-![picture](images/Side.JPG)
+![picture](Images/Side.JPG)
 
-![picture](images/Front-2.JPG)
+![picture](Images/Front-2.JPG)
 
-![picture](images/Micro.jpg)
+![picture](Images/Micro.jpg)
 Sherpa Micro Alpha 2
 
-![picture](images/Mini.jpg)
+![picture](Images/Mini.jpg)
 Sherpa Mini Alpha 2
 
 

@@ -2,8 +2,8 @@
 
 
 ## Gallery
-![picture](images/Mini.jpg)
-![picture](images/Mini 2.jpg)
+![picture](Images/Mini.jpg)
+![picture](Images/Mini 2.jpg)
 
 
 

@@ -2,8 +2,8 @@
 
 
 ## Gallery
-![picture](images/Micro.jpg)
-![picture](images/Micro 2.jpg)
+![picture](Images/Micro.jpg)
+![picture](Images/Micro 2.jpg)
 
 
 
