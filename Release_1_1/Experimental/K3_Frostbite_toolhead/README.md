@@ -21,8 +21,6 @@ Please print all parts in the "common parts" section, the section for your chose
 
 ### Common parts
 
-- `k3_left_bracket_x1`
-- `fan_duct_mount_mgn9c_x1`
 - `frostbite_duct_x1`
 - `frostbite_guard_x1`
 
@@ -33,6 +31,35 @@ Slice Mosquito
     - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
     - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
 - `mosquito_hotend_fan_duct_x1`
+- `k3_left_bracket_x1`
+
+VolcoMosq
+- main body (depends on your extruder):
+    - Sherpa Mini: `sherpa_mini_mosquito_main_body_x1`
+    - Sherpa Micro: `sherpa_micro_mosquito_main_body_x1`
+- `mosquito_hotend_fan_duct_x1`
+- `k3_left_bracket_extended_8.5mm_x1`
+
+Dragon-Style Hotend
+- main body (depends on your extruder):
+  - Sherpa Mini: `sherpa_mini_dragon_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragon_main_body_x1`
+- `dragon_hotend_fan_duct_x1`
+- `k3_left_bracket_x1`
+
+Dragon UHF (with nozzle extender)
+- main body (depends on your extruder):
+  - Sherpa Mini: `sherpa_mini_dragon_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragon_main_body_x1`
+- `dragon_hotend_fan_duct_x1`
+- `k3_left_bracket_extended_17mm_x1`
+
+Dragon UHF (without nozzle extender)
+- main body (depends on your extruder):
+  - Sherpa Mini: `sherpa_mini_dragon_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_dragon_main_body_x1`
+- `dragon_hotend_fan_duct_x1`
+- `k3_left_bracket_extended_8.5mm_x1`
 
 ### Extruders
 
