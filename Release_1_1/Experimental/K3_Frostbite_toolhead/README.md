@@ -13,7 +13,7 @@ The Frostbite toolhead uses a 4028 axial fan to give more cooling performance th
 
 ## K3rabiner
 
-Currently, the alpha 1 k3rabiner is partially supported with sherpa mini: you will need to omit the front connectors from the board and solder the wires directly. If you choose to use the k3rabiner, make sure to print the "main_body" and "spacer" files from the `k3rabiner` folder instead of the "main_body" file listed below.
+Currently, the alpha 1 k3rabiner is partially supported with sherpa mini: you will need to omit the front connectors from the board and solder the wires directly (unless you are using a longer hotend such as the VolcoMosq or Dragon UHF). If you choose to use the k3rabiner, make sure to print the "main_body" and "spacer" files from the `k3rabiner` folder instead of the "main_body" file listed below.
 
 ## What to print
 
