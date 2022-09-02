@@ -12,10 +12,10 @@
 
     |               | Sherpa (Mini or Micro)  | Ascender  | LGX Lite  |
     | ---           | ---                     | ---       | ---       |
-    | Mosquito      | 26.5                    | 26.0      | 21.5      |
-    | Copperhead    | 46.5                    | 46.0      | 41.5      |
-    | VolcoMosq     | 26.5                    | 26.0      | 21.5      |
-    | Dragon        | 27.5                    | 27.0      | 22.5      |
+    | Mosquito      | 26.5                    | 25.5      | 21.5      |
+    | Copperhead    | 46.5                    | 45.5      | 41.5      |
+    | VolcoMosq     | 26.5                    | 25.5      | 21.5      |
+    | Dragon        | 27.5                    | 26.5      | 22.5      |
     | Dragonfly BMO | unknown*                | unknown*  | unknown*  |
     | Dragonfly BMS | unknown*                | unknown*  | unknown*  |
     | Dragonfly HIC | unknown*                | unknown*  | unknown*  |
@@ -159,7 +159,7 @@ Sherpa Micro
 
 Ascender
 - `ascender_umbilical_mount_x1`
-- (mirrored variant of the double folded ascender extruder)
+- (double folded ascender extruder - R4 or newer)
 
 LGX Lite
 - `lgx_lite_umbilical_mount_x1`
