@@ -8,7 +8,7 @@ The Frostbite toolhead uses a 4028 axial fan to give more cooling performance th
 
 - Bowden tube length, endstop positions, and travel limits remain the same as for the dual 4010 toolhead.
 - New probe offset: X-25.0 Y18.88
-    - Since the probe offset has changed from the dual 4010 toolhead, you will need to replace the `[dockable_probe]` section in your klipper config file with the snippet provided in the `Klipper_Config` folder. If you are not using a spider mainboard, you may have to change the `pin`.
+    - Since the probe offset has changed from the dual 4010 toolhead, you will need to replace the `[dockable_probe]` and `[z_tilt]` sections in your klipper config file with the snippets provided in the `Klipper_Config` folder. If you are not using a spider mainboard, you may have to change the `pin`.
 - Replace the `[fan]` section in your klipper config file with the snippet provided in the `Klipper_Config` folder if you were not previously using a fan with hardware pwm. If you are not using a spider mainboard, you may have to change the `pin`. Before wiring your fan, make sure to check the datasheet for your fan to see which wire should be used for pwm.
 
 ## K3rabiner
