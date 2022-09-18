@@ -24,7 +24,7 @@ When multiple connectors are supported **bold** marks the recommended connector.
 | Hotend Fan | 2-pin JST XH | 1 Ampere
 | Partcooling Fan | 2-pin JST XH | 2 Ampere
 | Stepper | 4-pin JST XH | 1.2 Ampere <br/> 0.84 Ampere on TMC drivers as you specify the RMS ampere which is ~70% of peak
-| Aux / Probe | 4-pin JST XH | 0.8 Ampere
+| Aux / Probe | 2-pin JST XH | 0.8 Ampere
 
 ## BOM / Parts
 
