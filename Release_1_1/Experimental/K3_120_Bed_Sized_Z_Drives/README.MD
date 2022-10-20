@@ -14,6 +14,8 @@ This will replace the following files from the `3Z_Drive_Components` directory:
 * `z_drive_rear_x1_revX.stl`
 * `[a]_z_drive_front_brace_x1_revX.stl`
 
+As with anything in the `EXPERIMENTAL` folder, your positive/negative feedback is highly appreciated on the discord!
+
 ![Preview Front](Front_Angle.PNG)
 
 ![Preview Bottom](Bottom.PNG)
