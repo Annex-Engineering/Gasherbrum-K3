@@ -19,7 +19,7 @@ BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3
 - Direct Drive Extruder (Sherpa Mini, Sherpa Micro, and Folded Ascender supported)
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed
-- MGN9 Rails (XYZ and Cross)
+- MGN9C Rails (XYZ and Cross)
 - 9mm Belts on XYZ
 - Maxwell Coupling on Bed Frame
 - NEMA17 Motors XYZ
