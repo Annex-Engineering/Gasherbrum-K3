@@ -33,12 +33,8 @@ BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3
 * Enclosed Printers are passively heated and only designed around an average 65C chamber temperature, K3 is not intended to be a High Temperature printer. It was designed to excell at common engineering materials such as PLA, PETG, ABS and some PC/Nylon Blends
 
 # Images
- ![Image of K3](Archive/Release_1/Images/renders/front_view.png?raw=true)
+ ![Image of K3](Release_1_1/Images/Renders/front_view.png?raw=true)
   
- ![Image of K3](Archive/Release_1/Images/renders/inside_view.png?raw=true) 
+ ![Image of K3](Release_1_1/Images/Renders/inside_view.png?raw=true)
 
- ![Image of K3](Archive/Release_1/Images/renders/inside_view_ascender.png?raw=true)
-
- ![Image of K3](Archive/Release_1/Images/renders/top_view.png?raw=true) 
-
-
+ ![Image of K3](Release_1_1/Images/Renders/top_view.png?raw=true)
