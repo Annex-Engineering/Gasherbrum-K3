@@ -1,4 +1,4 @@
-# K3 Toolhead README
+# Toolhead Options and Notes
 
 ## Useful Notes
 
