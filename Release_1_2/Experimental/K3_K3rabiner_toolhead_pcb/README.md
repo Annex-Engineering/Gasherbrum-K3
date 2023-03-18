@@ -21,10 +21,10 @@ Links to purchase fully assembled boards can be found here: [ANNEX Sourcing Guid
 
 ## Gallery
 ![picture](Images/Micro.jpg)
-Sherpa Micro Alpha 2
+K3rabiner with the Sherpa Micro
 
 ![picture](Images/Mini.jpg)
-Sherpa Mini Alpha 2
+K3rabiner with the Sherpa Mini
 
 
 
