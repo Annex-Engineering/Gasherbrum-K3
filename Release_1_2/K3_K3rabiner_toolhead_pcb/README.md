@@ -3,8 +3,9 @@
 The K3rabiner is a toolboard for the K3 and an easy & quick connection between the backpack and toolhead. Thanks to wendemann for the original work.
 ![picture](Images/K3rabiner_with_harness.png)
 
-## Features
+## Features and Notes
 
+- K3rabiner will be the toolhead path moving forward, all future designs will use it in some form or another due to packaging constraints. This may result in support for some hotends being dropped and/or some extruders being temporarily unsupported (folded ascender) while we get our shit together.
 - Supports Sherpa mini/micro ONLY
 - Input via 16pin horizontal microfit
 - Output for partcooling fans
